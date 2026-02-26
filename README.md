@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nada! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning;Computer+Vision+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
